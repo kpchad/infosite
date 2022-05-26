@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'www.kylechadwick.info'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Kyle Chadwick'
+description: 'Personal Site'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -36,10 +36,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Personal Projects
+  url: /portfolio/
 
 # Footer nav
 navigation_footer:
@@ -49,11 +47,11 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Projects
     output: true
-    description: "My thoughts and ideas"
+    description: "Personal Projects"
     feature_text: |
-      Welcome to my blog
+      Check out some of my personal projects
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
