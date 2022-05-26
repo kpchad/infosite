@@ -20,7 +20,7 @@ If you want to read more a more in-depth telling of my journey through design/de
 
 Currently, I am user testing the Alpha version of TherapyFlow and working on the Beta version. 
 
-{% include youtubePlayer.html id="AgyqOHEoF6c" %}
+[showcase video](https://www.youtube.com/watch?v=AgyqOHEoF6c)
 
 [Devpost](https://devpost.com/software/therapyflow)
 

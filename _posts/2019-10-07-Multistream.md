@@ -17,7 +17,7 @@ Best High-Bandwidth Use Case ($5,000)
 
 ![image](/assets/images/Multistream2.jpg)
 
-{% include youtubePlayer.html id="ZAl5yLESzMY" %}
+[demo video](https://www.youtube.com/watch?v=ZAl5yLESzMY)
 
 [Devpost](https://devpost.com/software/lifesaver5g)
 
