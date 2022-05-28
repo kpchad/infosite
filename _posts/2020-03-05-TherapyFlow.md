@@ -1,8 +1,8 @@
 ---
-layout: post
 title: TherapyFlow
-description: Immersive Hand Therapy
-image: assets/images/TherapyFlowGameplay.png
+categories:
+- VR
+feature_image: "assets/images/TherapyFlowGameplay.png"
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Sesamoids
-description: Why do sesamoids develop?
-image: assets/images/OstrichSesamoid.png
+categories:
+- Biomechanics
+feature_image: "assets/images/OstrichSesamoid.png
 ---
 
 My research in the Structure and Motion Laboratory at the RVC was part of a grant studying the evolution and development of sesamoid bones in vertebrates, led by Prof John Hutchinson. I studied the knee joint of ostriches in order to gain insight into how and why their knee sesamoids (i.e. patellae) develop. This project began with a detailed anatomical study of all muscles, bones, tissues, and ligaments surrounding the knee. I then used this information to build FEA models to see if growth algorithms could explain their unique morphology.

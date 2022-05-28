@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Multistream
-description: Mobile VR 5G video surveillance hub
-image: assets/images/Multistream.PNG
+categories:
+- VR
+feature_image: "assets/images/Multistream.PNG"
 ---
 
 This project was made for the ATT 5G Hackathon in October, 2019.

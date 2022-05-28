@@ -1,8 +1,8 @@
 ---
-layout: post
-title: ForcePlate
-description: building a custom 6-axis force plate
-image: assets/images/forcePlate.png
+title: Force Plate
+categories:
+- Biomechanics
+feature_image: "assets/images/forcePlate.png"
 ---
 
 At the RVC Structure and Motion Lab, I was tasked with building a 6-axis force plate to measure ground reaction forces in salamanders. This was a part of a project led by Prof. John Hutchinson and Dr. Stephanie Pierce investigating early tetrapod locomotion.
