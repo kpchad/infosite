@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: Welcome to my personal site
 feature_image: "/assets/images/sunset.jpg"
 feature_text: |
   ## Kyle Chadwick
@@ -7,6 +7,6 @@ feature_text: |
 
 I am currently a product manager working in the medical XR space. The best way to connect with me or to see what I am up to is to find me on these sites:
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/kylepchadwick/" color="#0e76a8" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/KPChadwick" color="#0d94e7" %} {% include button.html text="Github" icon="github" link="https://github.com/kpchad" color="#0366d6" %} 
 
 You can also find some select personal projects on this site

@@ -68,10 +68,3 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/KPChadwick
-  LinkedIn: https://www.linkedin.com/in/kylepchadwick/
-  GitHub: https://github.com/kpchad
-  # link: https://darn.es
-  # RSS: /feed.xml
