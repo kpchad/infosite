@@ -2,7 +2,7 @@
 title: Breathing Biofeedback
 categories:
 - AR
-feature_image: "assets/images/Wim-Hof2.jpg"
+feature_image: "/assets/images/Wim-Hof2.jpg"
 ---
 
 Prototype app created for the Mira Prism HMD. Wim Hof guides the user in breathing exercises while a breathing panda gives the user feedback on their breaths.

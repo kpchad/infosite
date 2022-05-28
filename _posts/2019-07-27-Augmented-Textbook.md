@@ -2,7 +2,7 @@
 title: Augmented Textbook
 categories:
 - AR
-feature_image: "assets/images/TextbookAR.PNG"
+feature_image: "/assets/images/TextbookAR.PNG"
 ---
 
 This was a proof-of-concept app that I created to demonstrate how animated 3d assets can improve the traditional learning experience. 

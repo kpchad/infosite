@@ -2,7 +2,7 @@
 title: ToolboxUX
 categories:
 - VR
-feature_image: "assets/images/sketchbox_vertScroll.png"
+feature_image: "/assets/images/sketchbox_vertScroll.png"
 ---
 
 This study set out to design an intuative, easy to use, VR surgical toolbox. In my experience, many VR interfaces and interaction methods are not intuative and require a learning curve to be overcome, especially for users who do not use VR recreationally. In order for users such as surgeons to feel comfortable using a technology, it must become so seamless and intuative that there is little to no learning curve. This is the primary inspiration for this study, to arrive at an intuative design for a VR surgical toolbox (i.e. set of virtual tools to perform surgery such as scalpel, forceps, drill, scope) with little to no learning curve.  

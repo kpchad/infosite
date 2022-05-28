@@ -2,7 +2,7 @@
 title: TherapyFlow
 categories:
 - VR
-feature_image: "assets/images/TherapyFlowGameplay.png"
+feature_image: "/assets/images/TherapyFlowGameplay.png"
 ---
 
 
