@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'www.kylechadwick.info'
+url: 'kylechadwick.info'
 baseurl: ''
 title: 'Kyle Chadwick'
 description: 'Personal Site'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/assets/prof.jpg"
 
 # Pagination
 paginate: 5
@@ -68,3 +68,10 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/KPChadwick
+  LinkedIn: https://www.linkedin.com/in/kylepchadwick/
+  GitHub: https://github.com/kpchad
+  # link: https://darn.es
+  # RSS: /feed.xml
